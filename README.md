@@ -1,10 +1,11 @@
 # GRAB
-An app made for buying and selling purpose.
+An app made for buying and selling purposes.
 
 
 
+https://github.com/Dikshatomarr/GRAB/assets/91546745/db9da085-7f6c-4640-9569-0c5261c420ba
 
 
-https://github.com/Dikshatomarr/GRAB/assets/91546745/a8cfc532-1ab0-4f9c-b17e-1824f9a5a07b
+
 
 
